@@ -1,0 +1,17 @@
+# Definição de Processos - Grupo 07
+
+
+
+**Pasta principal**
+
+
+
+Contém:
+
+* Definições de Processos
+
+* Plano de Gerência de Configuração
+
+* Planilha de Avaliação QSW
+
+* Subpasta Templates
