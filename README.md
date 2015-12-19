@@ -5,14 +5,19 @@ Neste trabalho seão abordadas as áreas de Gerência de Projeto, Gerência de R
 **Grupo 7**
 
   Integrantes:  
-    Carlos Henrique Moreira (@euhenriqueh)
-    Gabriel Felipe da Silva (@gabrieur)
-    Leonardo Costa dos Santos (@LordKalyn)
-    Marjorie Celestino (@MarjorieCelestino)
-    Matheus Cardoso Duarte (@matcheus)
-    Vinícius Rezende (@vinires)
+    Carlos Henrique Moreira
+    
+    Gabriel Felipe da Silva
+    
+    Leonardo Costa dos Santos
+    
+    Marjorie Celestino
+    
+    Matheus Cardoso Duarte
+    
+    Vinícius Rezende
   
-  ## Áreas e Responsáveis
+## Áreas e Responsáveis
   
 Na tabela abaixo constam os integrantes do grupo responsáveis por cada área abordada no trabalho. Os documentos gerados por cada área serão identificados no Plano de Gerência de Configuração, visto que os integrantes devem gerar os documentos referentes a sua respectiva área.
   
@@ -20,9 +25,11 @@ Na tabela abaixo constam os integrantes do grupo responsáveis por cada área ab
   ---------|-----------------
   Gerência de Configuração | Matheus Cardoso Duarte
   Gerência de Projeto | Leonardo Costa
-  |Gabriel Felipe
+  
+  Gabriel Felipe
   Gerência de Requisitos | Marjorie Celestino
   Garantia de Qualidade | Carlos Henrique
-  |Vinícius Rezende
+  
+  Vinícius Rezende
 
 
