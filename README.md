@@ -29,7 +29,7 @@ Na tabela abaixo constam os integrantes do grupo responsáveis por cada área ab
 
 A estrutura do repositório foi definida de acordo com o documento .zip referenciado pelo professor da disciplina. Sendo a pasta principal Definição de Processo - Grupo 07, e dentro dela constam os documentos de definição de processo das áreas abordadas, o Plano de Gerência de Configuração e a Planilha de Avaliação QSW, a subpasta Templates deve conter todos os templates gerados para os processos definidos.
 
-1. Pasta: Definição de Processo - Grupo 07
+* Pasta: Definição de Processo - Grupo 07
    * Documentos de definição de processo
    * Plano de Gerência de Configuração
    * Planilha de Avaliação QSW
