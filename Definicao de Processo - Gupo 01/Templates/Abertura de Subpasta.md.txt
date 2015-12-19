@@ -1,5 +1,0 @@
-# Subpasta Templates
-
-**Contém:**
-
-* Templates dos documentos gerados pelos processos definidos.
