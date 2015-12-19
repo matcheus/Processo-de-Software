@@ -24,3 +24,7 @@ Na tabela abaixo constam os integrantes do grupo responsáveis por cada área ab
   Gerência de Projeto | Leonardo Costa e Gabriel Felipe
   Gerência de Requisitos | Marjorie Celestino
   Garantia de Qualidade | Carlos Henrique e Vinícius Rezende
+
+## Estrutura do Repositório
+
+A estrutura do repositório foi definida de acordo com o documento .zip referenciado pelo professor da disciplina. Sendo a pasta principal Definição de Processo - Grupo 07, e dentro dela constam os documentos de definição de processo das áreas abordadas, o Plano de Gerência de Configuração e a Planilha de Avaliação QSW, a subpasta Templates deve conter todos os templates gerados para os processos definidos.
