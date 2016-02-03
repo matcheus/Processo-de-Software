@@ -8,7 +8,6 @@ Neste trabalho seão abordadas as áreas de Gerência de Projeto, Gerência de R
 **Integrantes:**
 
 * Carlos Henrique Moreira
-* Gabriel Felipe da Silva
 * Leonardo Costa dos Santos
 * Marjorie Celestino
 * Matheus Cardoso Duarte
@@ -21,7 +20,7 @@ Na tabela abaixo constam os integrantes do grupo responsáveis por cada área ab
   **Área** | **Responsáveis**
   ---------|-----------------
   Gerência de Configuração | Matheus Cardoso Duarte
-  Gerência de Projeto | Leonardo Costa e Gabriel Felipe
+  Gerência de Projeto | Leonardo Costa
   Gerência de Requisitos | Marjorie Celestino
   Garantia de Qualidade | Carlos Henrique e Vinícius Rezende
 
@@ -35,3 +34,11 @@ A estrutura do repositório foi definida de acordo com o documento .zip referenc
    * Planilha de Avaliação QSW
    * SubPasta: Templates
      * Templates dos processos definidos
+
+A pasta raiz do projeto será a Projeto-Ripley onde devem constar os documentos gerados durante o mesmo.
+
+* Pasta: Projeto-Ripley
+   * Plano de Gerência de Configuração
+   * Subpasta: Garantia-de-Qualidade
+   * Subpasta: Gerencia-de-Projeto
+   * Subpasta: Gerencia-de-Requisitos
