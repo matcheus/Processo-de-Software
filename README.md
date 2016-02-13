@@ -1,7 +1,7 @@
 # Processo de Software
 
 ## Trabalho 1 - Definição Processo
-Neste trabalho seão abordadas as áreas de Gerência de Projeto, Gerência de Requisitos, Garantia de Qualidade e Gerência de Configuração do MPSBR. Sendo que, os documentos aqui expostos devem estar de acordo com o Modelo de Melhoria de Processo de Software, com ênfase nos níveis G e F (respectivamente Parcialmente Gerenciado e Gerenciado).
+Neste trabalho serão abordadas as áreas de Gerência de Projeto, Gerência de Requisitos, Garantia de Qualidade e Gerência de Configuração do MPSBR. Sendo que, os documentos aqui expostos devem estar de acordo com o Modelo de Melhoria de Processo de Software, com ênfase nos níveis G e F (respectivamente Parcialmente Gerenciado e Gerenciado).
 
 ## Grupo 7
 
@@ -35,15 +35,26 @@ A estrutura do repositório foi definida de acordo com o documento .zip referenc
    * SubPasta: Templates
      * Templates dos processos definidos
 
-A pasta raiz do projeto será a Projeto-Ripley onde devem constar os documentos gerados durante o mesmo.
+# Projeto Ripley
+
+## Trabalho 2 - Projeto Ripley
+
+O Ripley é um sistema OpenSource de streaming de filmes e série, que inclui interação social. O sistema busca atender os usuários disponibilizando conteúdo por meio de conexão peer-to-peer. O sistema é composto por uma versão Web, aplicativo Mobile e software instalável para Desktop.
+Além de oferecer um vasto catálogo de filmes e séries, o sistema irá funcionar também como uma rede social voltada para comunidades de fãs. Nesta rede, os usuários cadastrados poderam classificar filmes e séries, recomendar, compartilhar e comentar abertamente. Incluindo a funcção "Traker", que permitirá que usuários cadastrados marquem filmes, séries e episódios como "visto" ou "pretendo assistir", adicionando e associando este a um calendário percionalizado pelo usuário.
+
+## Estrutura de Pastas
+
+A pasta raiz do projeto será a **Projeto-Ripley** onde devem constar os documentos gerados durante o mesmo.
+
+**Pastas e documentos:**
 
 * Pasta: Projeto-Ripley
    * Plano de Gerência de Configuração
-   * Subpasta: Garantia-de-Qualidade
+   * SubPasta: Garantia-de-Qualidade
      * Plano de GQA
      * Relatórios de Avaliação
      * Relatórios de Não-Conformidades
-   * Subpasta: Gerencia-de-Projeto
+   * SubPasta: Gerencia-de-Projeto
      * Cronograma
      * Modelo de Classificação de Riscos
      * Plano de GPR
