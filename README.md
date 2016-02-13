@@ -11,7 +11,7 @@ Neste trabalho seão abordadas as áreas de Gerência de Projeto, Gerência de R
 * Leonardo Costa dos Santos
 * Marjorie Celestino
 * Matheus Cardoso Duarte
-* Vinícius Rezende
+* Vinícius Resende
   
 ## Áreas e Responsáveis
   
@@ -22,7 +22,7 @@ Na tabela abaixo constam os integrantes do grupo responsáveis por cada área ab
   Gerência de Configuração | Matheus Cardoso Duarte
   Gerência de Projeto | Leonardo Costa
   Gerência de Requisitos | Marjorie Celestino
-  Garantia de Qualidade | Carlos Henrique e Vinícius Rezende
+  Garantia de Qualidade | Carlos Henrique e Vinícius Resende
 
 ## Estrutura do Repositório
 
@@ -40,5 +40,18 @@ A pasta raiz do projeto será a Projeto-Ripley onde devem constar os documentos 
 * Pasta: Projeto-Ripley
    * Plano de Gerência de Configuração
    * Subpasta: Garantia-de-Qualidade
+     * Plano de GQA
+     * Relatórios de Avaliação
+     * Relatórios de Não-Conformidades
    * Subpasta: Gerencia-de-Projeto
+     * Cronograma
+     * Modelo de Classificação de Riscos
+     * Plano de GPR
+     * Relatório de Avaliação de Viabilidade
+     * Relatórios de Marco
+     * Relatórios de Monitoramento
+     * Termo de Comprometimento
    * Subpasta: Gerencia-de-Requisitos
+     * Documento de Especificação de Requisitos
+     * Matriz de Rastreabilidade Bidirecional
+     * Lista de Requisitos Levantados
