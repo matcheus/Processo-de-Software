@@ -58,6 +58,7 @@ A pasta raiz do projeto será a **Projeto-Ripley** onde devem constar os documen
      * Modelo de Classificação de Riscos
      * Plano de GPR
      * Relatório de Avaliação de Viabilidade
+     * Relatório de Controle de Problemas
      * Relatórios de Marco
      * Relatórios de Monitoramento
      * Termo de Comprometimento
