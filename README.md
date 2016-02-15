@@ -49,6 +49,9 @@ A pasta raiz do projeto será a **Projeto-Ripley** onde devem constar os documen
 
 * Pasta: Projeto-Ripley
    * Plano de Gerência de Configuração
+   * Planilha de Avaliação MPSBR - GPR
+   * Planilha de Avaliação MPSBR - GRE
+   * Planilha de Avaliação MPSBR - GQA
    * SubPasta: Garantia-de-Qualidade
      * Plano de GQA
      * Relatórios de Avaliação
